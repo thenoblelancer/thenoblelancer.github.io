@@ -2,8 +2,7 @@
 [Additional Work](clients.md) 
 # Selected Writing (atsign.com | Medium | LinkedIn)
 
-## About
-I served as writer and editor of professional articles and technical content from 2022–2024 for [Atsign]([url](https://atsign.com)). This work spans developer education, cybersecurity thought leadership, product ecosystem, and community building and storytelling.  
+My role in Creative Content centered on writing and editing professional articles and technical content from 2022–2024 for the Bay Area technology company, [Atsign](https://atsign.com). This work spans developer education, cybersecurity thought leadership, product ecosystem, and community building and storytelling.  
 
 ---
 
