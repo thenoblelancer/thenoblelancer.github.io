@@ -90,6 +90,15 @@ Professional post elaborating on secure remote access techniques without traditi
 
 ---
 
+## Additional Work
+Selected client-owned and NDA-restricted (pending client approval) writing samples are available upon request, including screenshots and context.
+
+→ [View additional client writing](clients.md)
+
+
+---
+
+
 ## About
 I served as writer and editor of professional articles and technical content from 2022–2024 for atsign.com, Medium publications, and LinkedIn. My work spans developer education, cybersecurity thought leadership, product ecosystem, and community building and storytelling.  
 
