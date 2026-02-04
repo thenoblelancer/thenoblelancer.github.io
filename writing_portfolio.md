@@ -101,6 +101,8 @@ Selected client-owned and NDA-restricted (pending client approval) writing sampl
 
 → [View additional client writing](clients.md)
 
+![Atsign Logo](/assets/images/atsign-logo-horizontal-color(2022)%20(1).png)     ![Braided Wisdom Logo](/assets/images/BW.png)     ![Memory Lane Jane Logo](/assets/images/MLJ.png)
+
 ---
 
 📧 thenoblelancer@proton.me  
