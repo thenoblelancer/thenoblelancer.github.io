@@ -1,3 +1,5 @@
+[Writing](writing_portfolio.md) ·
+[Additional Work](clients.md) 
 # Selected Client Writing
 
 The following samples represent professional writing for websites.
