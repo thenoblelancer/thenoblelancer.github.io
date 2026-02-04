@@ -1,6 +1,11 @@
 [Writing](writing_portfolio.md) ·
 [Additional Work](clients.md) 
-# Selected Writing (atsign.com & Professional Articles (Medium | LinkedIn)
+# Selected Writing (atsign.com | Medium | LinkedIn)
+
+## About
+I served as writer and editor of professional articles and technical content from 2022–2024 for [Atsign]([url](https://atsign.com)). This work spans developer education, cybersecurity thought leadership, product ecosystem, and community building and storytelling.  
+
+---
 
 ## Developer & Security Thought Leadership
 
@@ -96,13 +101,6 @@ Professional post elaborating on secure remote access techniques without traditi
 Selected client-owned and NDA-restricted (pending client approval) writing samples are available upon request, including screenshots and context.
 
 → [View additional client writing](clients.md)
-
-
----
-
-
-## About
-I served as writer and editor of professional articles and technical content from 2022–2024 for atsign.com, Medium publications, and LinkedIn. My work spans developer education, cybersecurity thought leadership, product ecosystem, and community building and storytelling.  
 
 ---
 
