@@ -1,3 +1,5 @@
+[Writing](writing_portfolio.md) ·
+[Additional Work](clients.md) 
 # Selected Writing (atsign.com & Professional Articles (Medium | LinkedIn)
 
 ## Developer & Security Thought Leadership
