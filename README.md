@@ -7,3 +7,14 @@ My name is Noble Sullivan, and I am a freelancer skilled in copywriting, researc
 [Writing](writing_portfolio.md) ·
 [Additional Work](clients.md) 
 
+
+
+
+
+
+
+---
+
+**Main Clients**
+
+![Atsign Logo](/assets/images/atsign-logo-horizontal-color(2022)%20(1).png)     ![Braided Wisdom Logo](/assets/images/BW.png)     ![Memory Lane Jane Logo](/assets/images/MLJ.png)
